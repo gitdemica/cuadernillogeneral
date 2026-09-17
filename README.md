@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cuadernillo General — Ciencias, Matemática y Programación</title>
+Cuadernillo de cosas varias
 <meta name="description" content="Cuadernillo general de Química, Física, Biología, Matemática y Programación (Python), con conceptos, ejemplos paso a paso y práctica.">
 <script>window.MathJax={tex:{inlineMath:[['$','$'],['\\(','\\)']],displayMath:[['$$','$$'],['\\[','\\]']]},svg:{fontCache:'global'}};</script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
